@@ -1,0 +1,2 @@
+# vndrwash
+对vnpy的录入的原始数据进行清洗并导入到新的MongoDB数据库
